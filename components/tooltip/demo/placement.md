@@ -7,7 +7,7 @@ title: 位置
 
 ````jsx
 import { Tooltip } from 'antd';
-const text = <span>提示文字</span>;
+const text = <div><p>提示文字</p><p>提示文字</p><p>提示文字</p><p>提示文字</p></div>
 
 ReactDOM.render(
   <div>
